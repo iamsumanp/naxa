@@ -3,7 +3,6 @@ import React from "react";
 export const Hero = () => {
   return (
     <div className=" flex flex-col w-full px-10 sm:px-24 py-10 text-[#333132]">
-      {/* <div className="flex w-full flex-col md:flex-row justify-between items-center"> */}
       <span className="text-yellow text-[18px] pt-6 pb-6 font-bold">
         SERVICES
       </span>
